@@ -20,7 +20,9 @@ To get started with the project, follow these steps:
    git clone git@github.com:MasanaKhanyi/masanakhanyi.github.io.git
 
 2. **Install the dependencies**
-npm install
+    ```sh
+    npm install
 
 3. **Run the development server:**
-npm run dev
+    ```sh
+    npm run dev
