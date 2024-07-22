@@ -1,3 +1,6 @@
 [submodule "src/proj"]
 	path = src/proj
 	url = https://github.com/MasanaKhanyi/masanakhanyi.github.io
+[submodule "masanakhanyi.github.io"]
+	path = masanakhanyi.github.io
+	url = https://github.com/MasanaKhanyi/masanakhanyi.github.io
