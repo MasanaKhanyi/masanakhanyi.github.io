@@ -1,0 +1,3 @@
+[submodule "src/proj"]
+	path = src/proj
+	url = https://github.com/masanakhanyi/masanakhanyi.github.io
